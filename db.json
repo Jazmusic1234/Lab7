@@ -1,18 +1,27 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "author": "",
+      "title": "",
+      "id": 14
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "author": "Rick Riordan",
+      "title": "Percy Jackson",
+      "id": 15
+    },
+    {
+      "author": "Kristen Cashore",
+      "title": "Bitterblue",
+      "id": 16
+    },
+    {
+      "author": "JK Rowling",
+      "title": "Harry Potter",
+      "id": 17
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
